@@ -1,2 +1,13 @@
 # fsdb2svg
-Convert fsdb file to svg
+
+## Features
+
+Convert fsdb/vcd file to svg
+
+## Usage
+
+## Requirments
+
+## References
+
+## Credits

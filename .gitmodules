@@ -1,0 +1,6 @@
+[submodule "wavedrompy"]
+	path = wavedrompy
+	url = https://github.com/jacklee023/wavedrompy
+[submodule "vcd2json"]
+	path = vcd2json
+	url = https://github.com/jacklee023/vcd2json
