@@ -205,8 +205,8 @@ class Wave2Img:
 
 def get_args():
     parser = argparse.ArgumentParser()
-    st = "debug option"
-    parser.add_argument('-d',   '--debug', default = False, action='store_true', help=st)
+    # st = "debug option"
+    # parser.add_argument('-d',   '--debug', default = False, action='store_true', help=st)
 
     st = "rc file"
     parser.add_argument('-r',   '--rcfile', default = "", help=st)
