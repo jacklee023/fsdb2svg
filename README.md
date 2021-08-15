@@ -14,9 +14,9 @@ python3 ./fsdb2svg.py -i data/demo.fsdb -r data/demo.rc
 
 ## Argument
 
-`-c`,`--config` 指定配置文件
-`-i`,`--input` 指定波形文件，支持 fsdb 或 vcd 格式
-`-r`,`--rcfile` 指定 rc 文件
+- `-c`,`--config` 指定配置文件
+- `-i`,`--input` 指定波形文件，支持 fsdb 或 vcd 格式
+- `-r`,`--rcfile` 指定 rc 文件
 
 ## Configuration
 
