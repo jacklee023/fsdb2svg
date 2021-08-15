@@ -41,6 +41,6 @@ wavedrom | `hscale_value`   | 指定默认的缩放比例, 默认1
 
 ## Credits
 
-https://github.com/nanamake/vcd2json
-https://github.com/wallento/wavedrompy
-https://github.com/wavedrom/wavedrom
+- https://github.com/nanamake/vcd2json
+- https://github.com/wallento/wavedrompy
+- https://github.com/wavedrom/wavedrom
